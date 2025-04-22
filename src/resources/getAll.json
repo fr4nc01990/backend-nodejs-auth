@@ -1,0 +1,204 @@
+{
+  "code": 0,
+  "message": "Success",
+  "result": {
+    "elements": [
+      {
+        "id": 1,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5543582877",
+        "contactName": "Calle Estado De Mexico",
+        "description": "22",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-24T17:55:14.573585"
+      },
+      {
+        "id": 2,
+        "phoneBookType": {
+          "id": 2,
+          "name": "FIJO"
+        },
+        "phone": "5512345678",
+        "contactName": "Av. Reforma",
+        "description": "Oficina principal",
+        "active": true,
+        "createdBy": "admin",
+        "createdDate": "2024-10-25T10:15:32.100000"
+      },
+      {
+        "id": 3,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "7181272327",
+        "contactName": "Acambay",
+        "description": "8",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-24T17:55:23.572744"
+      },
+      {
+        "id": 4,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5589123490",
+        "contactName": "Col. Roma Norte",
+        "description": "Vecino",
+        "active": false,
+        "createdBy": "user1",
+        "createdDate": "2024-10-26T08:30:00.000000"
+      },
+      {
+        "id": 5,
+        "phoneBookType": {
+          "id": 3,
+          "name": "FAX"
+        },
+        "phone": "5500112233",
+        "contactName": "Laboratorio Central",
+        "description": "Fax recepción",
+        "active": true,
+        "createdBy": "admin",
+        "createdDate": "2024-10-25T11:45:00.000000"
+      },
+      {
+        "id": 6,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5588881122",
+        "contactName": "Contacto Emergencia",
+        "description": "Hermano",
+        "active": true,
+        "createdBy": "user2",
+        "createdDate": "2024-10-24T20:00:00.000000"
+      },
+      {
+        "id": 7,
+        "phoneBookType": {
+          "id": 2,
+          "name": "FIJO"
+        },
+        "phone": "5555555555",
+        "contactName": "Consultorio Dental",
+        "description": "Cita mensual",
+        "active": false,
+        "createdBy": "user3",
+        "createdDate": "2024-10-23T14:00:00.000000"
+      },
+      {
+        "id": 8,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5612345678",
+        "contactName": "Tienda Esquina",
+        "description": "Encargado",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-22T09:45:00.000000"
+      },
+      {
+        "id": 9,
+        "phoneBookType": {
+          "id": 3,
+          "name": "FAX"
+        },
+        "phone": "5599998877",
+        "contactName": "Recepción Escuela",
+        "description": "Enviar documentos",
+        "active": true,
+        "createdBy": "admin",
+        "createdDate": "2024-10-21T13:20:00.000000"
+      },
+      {
+        "id": 10,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5577332211",
+        "contactName": "Tío Ricardo",
+        "description": "Familiar cercano",
+        "active": true,
+        "createdBy": "user1",
+        "createdDate": "2024-10-20T12:00:00.000000"
+      },
+      {
+        "id": 11,
+        "phoneBookType": {
+          "id": 2,
+          "name": "FIJO"
+        },
+        "phone": "5566778899",
+        "contactName": "Oficina Satélite",
+        "description": "Sucursal norte",
+        "active": false,
+        "createdBy": "admin",
+        "createdDate": "2024-10-19T16:00:00.000000"
+      },
+      {
+        "id": 12,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5599887766",
+        "contactName": "Amigo Luis",
+        "description": "Universidad",
+        "active": true,
+        "createdBy": "user2",
+        "createdDate": "2024-10-18T17:30:00.000000"
+      },
+      {
+        "id": 13,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5566443322",
+        "contactName": "Entrega Mercado",
+        "description": "Repartidor",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-17T10:00:00.000000"
+      },
+      {
+        "id": 14,
+        "phoneBookType": {
+          "id": 3,
+          "name": "FAX"
+        },
+        "phone": "5544221133",
+        "contactName": "Contabilidad",
+        "description": "Enviar facturas",
+        "active": true,
+        "createdBy": "user3",
+        "createdDate": "2024-10-16T09:00:00.000000"
+      },
+      {
+        "id": 15,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5522334455",
+        "contactName": "Cliente VIP",
+        "description": "Contacto prioritario",
+        "active": true,
+        "createdBy": "admin",
+        "createdDate": "2024-10-15T11:00:00.000000"
+      }
+    ],
+    "total": 2
+  }
+}
